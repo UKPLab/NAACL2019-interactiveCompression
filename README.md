@@ -9,7 +9,7 @@ If you reuse this software, please use the following citation:
     title = {Data-efficient Neural Text Compression with Interactive Learning},
     author = {P.V.S., Avinesh and Meyer, Christian M.},
     publisher = {Association for Computational Linguistics},
-    booktitle = {Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+    booktitle = {Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics},
     pages = {(to appear)},
     month = june,
     year = {2019},
